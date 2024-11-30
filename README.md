@@ -1,5 +1,7 @@
 ##Prédiction de l'infection par le SARS-CoV-2 (COVID-19)
+
 #Description du projet
+
 Ce projet vise à analyser des données médicales pour prédire si un individu est infecté par le SARS-CoV-2 (COVID-19) en fonction de divers paramètres biologiques et viraux. À travers une combinaison de nettoyage de données, d'ingénierie des caractéristiques et de machine learning, un modèle prédictif a été développé pour fournir des diagnostics précis.
 
 #Objectif

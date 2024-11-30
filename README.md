@@ -1,18 +1,18 @@
-Prédiction de l'infection par le SARS-CoV-2 (COVID-19)
-Description du projet
+##Prédiction de l'infection par le SARS-CoV-2 (COVID-19)
+#Description du projet
 Ce projet vise à analyser des données médicales pour prédire si un individu est infecté par le SARS-CoV-2 (COVID-19) en fonction de divers paramètres biologiques et viraux. À travers une combinaison de nettoyage de données, d'ingénierie des caractéristiques et de machine learning, un modèle prédictif a été développé pour fournir des diagnostics précis.
 
-Objectif
-Identifier les variables les plus significatives pour prédire l'infection.
-Construire et évaluer un modèle de machine learning performant pour classer les résultats des tests en positif ou négatif.
-Fournir un outil pour l’aide au diagnostic médical.
-Données utilisées
-Source des données : Un fichier Excel contenant des informations cliniques et biologiques de patients.
-Colonnes clés :
+#Objectif
+- Identifier les variables les plus significatives pour prédire l'infection.
+- Construire et évaluer un modèle de machine learning performant pour classer les résultats des tests en positif ou négatif.
+- Fournir un outil pour l’aide au diagnostic médical.
+#Données utilisées
+- Source des données : Un fichier Excel contenant des informations cliniques et biologiques de patients.
+- Colonnes clés :
 Résultat du test SARS-CoV-2 (SARS-Cov-2 exam result).
 Variables biologiques telles que Monocytes, Leukocytes, et Platelets.
 Variables virales.
-Étapes principales
+#Étapes principales
 1. Exploration et nettoyage des données
 Analyse initiale :
 Vérification des types de données.
